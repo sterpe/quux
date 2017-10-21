@@ -45,4 +45,9 @@ PreCommit:
   Standard:
     enabled: true
     required_executable: "yarn"
-    command: ["yarn", "run", "standard"]
+    command: ["yarn", "standard"]
+
+  Flow:
+    enabled: true
+    required_executable: "./scripts/overcommit/required_executable/yarn.sh"
+    command: ["./scripts/overcommit/required_executable/yarn.sh", "flow"]
