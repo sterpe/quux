@@ -8,6 +8,7 @@
   "dependencies": {},
   "devDependencies": {
     "flow-bin": "^0.57.3",
+    "jest": "^21.2.1",
     "standard": "^10.0.3"
   }
 }
