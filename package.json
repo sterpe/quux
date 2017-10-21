@@ -1,0 +1,13 @@
+{
+  "name": "quux",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/sterpe/quux.git",
+  "author": "Steven R Terpe <srterpe@gmail.com>",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "flow-bin": "^0.57.3",
+    "standard": "^10.0.3"
+  }
+}
