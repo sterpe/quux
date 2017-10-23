@@ -47,10 +47,10 @@ PreCommit:
     required_executable: "./scripts/overcommit/required_executable/yarn.sh"
     command: ["./scripts/overcommit/required_executable/yarn.sh", "standard"]
 
-  Flow:
-    enabled: true
-    required_executable: "./scripts/overcommit/required_executable/yarn.sh"
-    command: ["./scripts/overcommit/required_executable/yarn.sh", "flow"]
+#  Flow:
+#    enabled: true
+#    required_executable: "./scripts/overcommit/required_executable/yarn.sh"
+#    command: ["./scripts/overcommit/required_executable/yarn.sh", "flow"]
 
   Jest:
     enabled: true
